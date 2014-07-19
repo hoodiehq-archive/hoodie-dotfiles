@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Type: Bug",
+    "color": "e11d21"
+  },
+  {
+    "name": "Type: Feature",
+    "color": "009800"
+  },
+  {
+    "name": "Type: Chore",
+    "color": "fbca04"
+  },
+  {
+    "name": "Type: Perf",
+    "color": "207de5"
+  },
+  {
+    "name": "needs: breaking change",
+    "color": "e11d21"
+  },
+  {
+    "name": "needs: public api",
+    "color": "009800"
+  },
+  {
+    "name": "frequency: low",
+    "color": "fbca04"
+  },
+  {
+    "name": "frequency: moderate",
+    "color": "eb6420"
+  },
+  {
+    "name": "frequency: high",
+    "color": "e11d21"
+  },
+  {
+    "name": "severity: regression",
+    "color": "e11d21"
+  },
+  {
+    "name": "severity: memory leak",
+    "color": "eb6420"
+  },
+  {
+    "name": "severity: broken expected use",
+    "color": "fbca04"
+  },
+  {
+    "name": "severity: confusing",
+    "color": "5319e7"
+  },
+  {
+    "name": "severity: inconvenience",
+    "color": "006b75"
+  },
+  {
+    "name": "starter",
+    "color": "009800"
+  }
+]
