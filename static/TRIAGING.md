@@ -30,7 +30,6 @@ This process based on the idea of minimizing user pain
       If this doesn't belong, [close it][], and go to the last step.
     * Label `needs: breaking change` - if needed
     * Label `needs: public api` - if the issue requires introduction of a new public API
-1. Label `browser: *` - if the issue **only** affects a certain browser
 1. Label `frequency: *` – How often does this issue come up? How many developers does this affect?
     * low - obscure issue affecting a handful of developers
     * moderate - impacts a common usage pattern
@@ -41,8 +40,6 @@ This process based on the idea of minimizing user pain
     * broken expected use - it's hard or impossible for a developer using Hoodie to accomplish something that Hoodie should be able to do
     * confusing - unexpected or inconsistent behavior; hard-to-debug
     * inconvenience - causes ugly/boilerplate code in apps
-1. Label `component: *`
-    * In rare cases, it's ok to have multiple components.
 1. Label `starter` - These issues are good targets for PRs from the open source community. Apply to issues where the problem and solution are well defined in the comments, and it's not too complex.
 
 1. Assign a milestone:
@@ -51,14 +48,6 @@ This process based on the idea of minimizing user pain
     
 
 1. Unassign yourself from the issue
-
-
-## Tips
-
-* Label `resolution: *`
-    * these tags can be used for labeling a closed issue/PR with a reason why it was closed.
-    * Right now there are only a few rejection reasons, but we can add more as needed. Feel free to suggest one to a core team member. We don't use this label for issues that were fixed or PRs that were merged.
-
 
 ## Closing an Issue or PR
 
