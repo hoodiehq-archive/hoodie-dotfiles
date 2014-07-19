@@ -152,6 +152,12 @@ included in the project:
 **IMPORTANT**: By submitting a patch, you agree to license your work under the
 same license as that used by the project.
 
+<a name="triagers"></a>
+## Triagers 
+
+There is a [defined process](TRIAGING.md) to manage issues, because this helps to speed up releases and minimizes user pain.
+Triaging is a great way to contribute to Hoodie without having to write code. 
+If you are interested, please [leave a comment here](https://github.com/hoodiehq/discussion/issues/50) asking to join the triaging team.
 
 <a name="maintainers"></a>
 ## Maintainers
