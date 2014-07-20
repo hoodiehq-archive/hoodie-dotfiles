@@ -42,10 +42,10 @@ This process based on the idea of minimizing user pain
     * inconvenience - causes ugly/boilerplate code in apps
 1. Label `starter` - These issues are good targets for PRs from the open source community. Apply to issues where the problem and solution are well defined in the comments, and it's not too complex.
 
-1. Assign a milestone:
+1. Label `milestone: *` – Assign a milestone:
    * Backlog - triaged fixes and features, should be the default choice 
-   * Current x.y.z milestone (e.g. 0.3.0) - regressions and urgent bugs only
-    
+   * x.y.z - e.g. 0.3.0
+
 
 1. Unassign yourself from the issue
 
