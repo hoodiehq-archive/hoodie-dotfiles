@@ -1,0 +1,18 @@
+[
+  "couchdb-db-notify",
+  "hoodie-admin-dashboard",
+  "hoodie-admin-dashboard-UIKit",
+  "hoodie-admin.js",
+  "hoodie-cli",
+  "hoodie-plugin-appconfig",
+  "hoodie-plugin-email",
+  "hoodie-plugin-users",
+  "hoodie-plugins-api",
+  "hoodie-plugins-manager",
+  "hoodie-server",
+  "hoodie.js",
+  "local-tld-lib",
+  "my-first-hoodie",
+  "node-multicouch",
+  "node-ports"
+]
