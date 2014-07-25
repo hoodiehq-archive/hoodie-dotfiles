@@ -1,5 +1,7 @@
 [
   "couchdb-db-notify",
+  "grunt-release-hoodie",
+  "grunt-hoodie",
   "hoodie-admin-dashboard",
   "hoodie-admin-dashboard-UIKit",
   "hoodie-admin.js",
