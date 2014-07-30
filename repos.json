@@ -9,6 +9,7 @@
   "hoodie-plugin-appconfig",
   "hoodie-plugin-email",
   "hoodie-plugin-users",
+  "hoodie-plugin-global-share",
   "hoodie-plugins-api",
   "hoodie-plugins-manager",
   "hoodie-server",
