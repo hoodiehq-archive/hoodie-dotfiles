@@ -196,3 +196,4 @@ You may add flags to specify the new version.
 1. `grunt release` or `grunt release:patch`: 0.0.1 => 0.0.2
 2. `grunt release:minor`: 0.0.2 => 0.1.0
 3. `grunt release:major`: 0.1.0 => 1.0.0
+4. `grunt release --setversion=4.12.3-alpha.19`: 1.0.0 => 4.12.3-alpha.19 (specific semantic version)
